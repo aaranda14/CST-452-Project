@@ -6,6 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * The main class for launching the application.
+ * Written by Anthony Aranda
  */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.gcu")
